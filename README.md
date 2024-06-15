@@ -2,7 +2,8 @@
 
 A basic recipe website.
 
-Recipes:
+Recipes so far:
 
+Furikake rice
 Tamago kake gohan
 French Toast
